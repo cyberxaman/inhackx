@@ -14,6 +14,7 @@ proot-distro login debian
 > after login in debian copy and paste this commands 👇
 
 ```bash
+apt update -y 
 apt install git
 git clone https://github.com/cyberxaman/inhackx
 cd inhackx
